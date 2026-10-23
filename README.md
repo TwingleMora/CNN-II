@@ -1,3 +1,9 @@
+[![Watch the DNN accelerator demonstration on YouTube](https://img.youtube.com/vi/tV0GkigSe9o/hqdefault.jpg)](https://www.youtube.com/watch?v=tV0GkigSe9o)
+
+**[Watch the demonstration on YouTube](https://www.youtube.com/watch?v=tV0GkigSe9o)**
+
+Click the thumbnail above to open the video.
+
 # FPGA-Based General-Purpose DNN Accelerator
 
 A SystemVerilog accelerator for fully connected deep neural network inference, built around a parameterized 3D systolic array. An instruction set describes layer operations and matrix dimensions, allowing the accelerator to execute networks with different layer counts and neuron counts within its hardware and memory limits.
@@ -198,6 +204,14 @@ This example demonstrates a successful inference. The presentation does not repo
 The FPGA block design connects the accelerator's AXI master interface to the Zynq processing system's `S_AXI_GP0` interface through AXI SmartConnect. The processing system provides access to external DDR memory. The design also includes processor-system reset logic, button inputs, and LED outputs.
 
 ![FPGA integration with AXI SmartConnect and the Zynq processing system](assets/fpga-integration.png)
+
+## FPGA Demonstration
+
+[![Watch the DNN accelerator demonstration on YouTube](https://img.youtube.com/vi/tV0GkigSe9o/hqdefault.jpg)](https://www.youtube.com/watch?v=tV0GkigSe9o)
+
+**[Watch the demonstration on YouTube](https://www.youtube.com/watch?v=tV0GkigSe9o)**
+
+Click the thumbnail above to open the video.
 
 ## Tools and Languages
 
