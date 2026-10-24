@@ -210,7 +210,6 @@ The FPGA block design connects the accelerator's AXI master interface to the Zyn
 
 **[Watch the demonstration on YouTube](https://www.youtube.com/watch?v=tV0GkigSe9o)**
 
-Click the thumbnail above to open the video.
 
 ## Tools and Languages
 
