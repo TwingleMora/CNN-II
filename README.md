@@ -207,7 +207,6 @@ The FPGA block design connects the accelerator's AXI master interface to the Zyn
 
 ## FPGA Demonstration
 
-[![Watch the DNN accelerator demonstration on YouTube](https://img.youtube.com/vi/tV0GkigSe9o/hqdefault.jpg)](https://www.youtube.com/watch?v=tV0GkigSe9o)
 
 **[Watch the demonstration on YouTube](https://www.youtube.com/watch?v=tV0GkigSe9o)**
 
